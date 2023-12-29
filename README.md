@@ -1,0 +1,2 @@
+# POO-typescript
+Estudos typescript
