@@ -1,7 +1,7 @@
 # POO-typescript
 Estudos typescript
 
-tsc para compilar typescript em javascript 
+*tsc para compilar typescript em javascript 
 Tem que fazer download do type no projeto, no cmd
 ```npm install -g typescript```
 criar o arquivo tst --init  -vai criar tsconfig.json
