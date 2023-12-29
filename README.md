@@ -1,5 +1,5 @@
 # POO-typescript
-Estudos typescript
+Estudos typescript :ok_hand:
 
 * tsc para compilar typescript em javascript 
 * Tem que fazer download do type no projeto no cmd
