@@ -1,6 +1,7 @@
 # POO-typescript
 Estudos typescript :+1:
 
+* Se fizer a pasta antes de gerar o repositório, gera o repo no github, clona(FORA DA PASTA ANTERIORMENTE CRIADA), transfere os arquivos de dentro da pasta anteriormente criada para a pasta do repositório, e apaga a pasta anteriormente criada. 
 * tsc para compilar typescript em javascript 
 * Tem que fazer download do type no projeto no cmd
 ```npm install -g typescript```
